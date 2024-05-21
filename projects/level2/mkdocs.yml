@@ -1,0 +1,5 @@
+site_name: 'level1/level2'
+repo_url: 'https://example.com/level2'
+edit_uri: 'edit/docs'
+nav:
+  - index.md
